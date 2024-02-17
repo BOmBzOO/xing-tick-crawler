@@ -14,5 +14,6 @@ RES_FOLDER_PATH = "C:/eBEST/xingAPI/Res"  # xing_tick_crawler Res 파일 폴더 
 TICKER_DATA_FOLDER_PATH = "./ticker"  # tick 데이터 저장할 위치
 ```
 
-#### 2. database 폴더 생성
+#### 2. database, log 폴더 생성
 - fold name : database
+- fold name : log
